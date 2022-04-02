@@ -1,0 +1,284 @@
+body
+{
+    background-color: #202124;
+}
+.mainblock
+{
+    display: flex;
+}
+.main
+{
+    display: flex;
+    justify-content:flex-start ;
+    flex-wrap: wrap;
+    width: 90%;
+    
+}
+#block1,#block2,#block3,#block4,#block5,#block6,#block7,#block8,#block9,#block10,#block11,#block12
+{
+    height: 190px;
+    width: 240px;
+    margin:7px;
+    background-color:#3c4043;
+    align-content: center;
+    border-radius: 10px;
+    position: relative;
+}
+#one
+{
+    height: 140px;
+    width: 140px;
+    background-size: cover;
+    margin-left: 50px;
+    margin-top: 15px;
+    border-radius: 60%;
+    text-align: center;
+}
+.h
+{
+    margin-top:2px;
+    color:white;
+    text-align: center;
+}
+.iq
+{
+    color: white;
+}
+.fa-video,.fa-microphone,.fa-thumbtack,.fa-th,.fa-ellipsis-v,.fa-desktop,.fa-closed-captioning
+{
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+    user-select: none;
+    border-radius: 50%;
+    background-color:#3c4043;
+    color: white;
+    
+}
+.fa-shield-alt,.fa-info-circle,.fa-user-friends,.fa-comment-alt
+{
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+    user-select: none;
+    border-radius: 50%;
+    background-color:#202124;
+    color: white;
+}
+.fa-video-slash,.fa-microphone-alt-slash,.fa-phone-slash 
+{
+    font-size: 15px;
+    padding: 10px;
+    cursor: pointer;
+    user-select: none;
+    background-color:#ea4335;
+    color: white;
+    border-radius: 50%;
+}
+.fa-microphone-slash,.fa-unlink 
+{
+    font-size: 15px;
+    padding: 10px;
+    cursor: pointer;
+    user-select: none;
+    background-color:#3c4043;
+    color: white;
+    border-radius: 50%; 
+}
+.fa-check-circle
+{
+    border-radius: 50%;
+    color:rgb(52, 165, 199);
+    background-color: white;
+}
+.fa-minus-circle
+{
+    color:#3c4043;
+    margin-left: -10px;
+    border-radius: 50%; 
+    background-color: whitesa;
+}
+#j
+{
+    display:flex;
+    justify-content:center; 
+}
+#a1
+{
+    background-color: #3c4043;
+    border-radius: 60px;   
+}
+#jk
+{
+    display:none; 
+    position:absolute; 
+    margin-left: 62px;
+    margin-top: -90px;
+}
+#one:hover + #jk
+{
+    display: block;
+}
+.u
+{
+    margin-left: 83.5%;
+    height: 10px;
+}
+.t
+{
+    position:absolute;
+    margin-top: -30px;
+    margin-left: 10px;
+}
+.bottom
+{
+    height: 70px;
+    background-color: #202124;
+    display: flex;
+    margin-top: -30px;
+    justify-content:space-around;
+   
+}
+.main1
+{
+    width: 500px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 650px;
+}
+.main2
+{
+    height: 552px;
+  
+}
+.first,.second,.third,.four
+{
+    margin-left: 20px;
+}
+.third
+{
+    overflow-y: scroll;
+    height: 404px;
+}
+.third1
+{
+    margin-left: 20px;
+    height: 226px;
+}
+ul
+{
+    margin-left: -35px;
+    list-style-type: none;
+}
+.icoon
+{
+    font-size: 25px;
+    display: inline;
+    margin-left:210px;
+    text-overflow: inherit;
+}
+.icon
+{
+    display: inline; 
+    position: relative;
+    top:-37px;
+    left: 322px;
+    text-overflow: inherit;
+}
+.icon1
+{
+    display: inline;
+    position: relative;
+    top:-37px;
+    left: 302px;
+    text-overflow: inherit;
+} 
+.icon2
+{
+    display: inline;
+    position: relative;
+    top:-37px;
+    left: 302px;
+    text-overflow: inherit;
+}
+.icon3
+{
+    display: inline;
+    position: relative;
+    top:-37px;
+    left: 302px;
+    text-overflow: inherit;
+}
+.icon4
+{
+    display: inline;
+    position: relative;
+    top:-37px;
+    left: 304px;
+    text-overflow: inherit;
+}
+.icon5
+{
+    display: inline;
+    position: relative;
+    top:-37px;   
+    left: 304px;
+    text-overflow: inherit; 
+}
+.icon6
+{
+    display: inline;
+    position: relative;
+    top:-37px;
+    left: 304px; 
+    text-overflow: inherit;
+}
+.uk.ic
+{
+    display:inline; 
+    margin-top: -47px;
+}
+.ic1
+{
+    display:inline;
+    margin-left: 5px;
+}
+.ukk
+{
+    display: inline;
+    margin-left: 10px;
+}
+.ukkk
+{
+    display: inline;
+    margin-left: 15px;
+}
+
+::-webkit-scrollbar 
+{
+    width: 7px;
+}
+::-webkit-scrollbar-thumb 
+{
+    background:#c1c1c1 ; 
+}
+.en
+{
+    display: inline;   
+   
+    margin-right: 5px;
+    border-radius: 30px;
+}
+.fa-times:before {
+    position: relative;
+   
+    top: -43px;
+    left: 129px;
+}
+.four
+{
+    position:relative;
+    top:-10px;
+}
+  
+  
